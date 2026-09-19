@@ -1,0 +1,25 @@
+{
+  "name": "Das verrückte Fußballspiel",
+  "short_name": "Fußballspiel",
+  "description": "Ein interaktives Lese- und Entdeckerspiel für Leseanfänger.",
+  "lang": "de-DE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3ead8",
+  "theme_color": "#3f7449",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
